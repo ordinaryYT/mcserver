@@ -1,0 +1,15 @@
+# Ignore world data
+world/
+world_nether/
+world_the_end/
+
+# Logs
+logs/
+*.log
+
+# Server files that change
+usercache.json
+whitelist.json
+banned-ips.json
+banned-players.json
+ops.json
